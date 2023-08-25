@@ -1,7 +1,8 @@
 <center>
-# Hi, I am Novian Rachman Iskandar
-Welcome, to my Github Profile!
+# Hi, I am Novian Rachman Iskandar  
 </center>
+
+Welcome, to my Github Profile!
 
 ## About Me
 
