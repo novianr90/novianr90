@@ -1,5 +1,4 @@
-# Hi, I am Novian Rachman Iskandar  
--------------
+<h1 align="center">Hi, I am Novian Rachman Iskandar</h1>
 
 Welcome, to my Github Profile!
 
