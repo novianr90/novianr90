@@ -17,5 +17,6 @@ I am a fresh graduate of Digital Business Major from Indonesia University of Edu
 ## Languages and Tools:
 [<img src="https://camo.githubusercontent.com/28f57c54a36d9362f6f20f6a011471a4b0ffc6ad1a6f7b74ced17e922f118fbd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f746c696e2e737667" width="50" height="50">](https://kotlinlang.org/)
 [<img src="https://camo.githubusercontent.com/13e18ab9046dbfdf25bb7a0448ec88710166b5ec85f3cd1b57efe2a9aa4ccdd6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f2e737667" width="50" height="50">](https://go.dev/)
+[<img src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" width="50" height="50">](https://python.org)
 [<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" height="50">](https://www.postgresql.org/)
 [<img src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667" width="50" height="50">](https://git-scm.com/)
