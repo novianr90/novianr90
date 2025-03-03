@@ -11,8 +11,8 @@ I am a fresh graduate of Digital Business Major from Indonesia University of Edu
 [<img src="https://camo.githubusercontent.com/e9592fd6ea20b888ed3c7621d8c7257835af4f2e7232e92f5db4e9e2e4e91380/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="50" height="50">](https://www.linkedin.com/in/novianrachman/)
 [<img src="https://camo.githubusercontent.com/da1a9ba067cba3e9fed4978aca58ffc6e3abe151c74f722324bda199a97b27cf/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width="50" height="50">](https://www.instagram.com/novian.rachmann/)
 
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novianr90&show_icons=true)
+<!-- ## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=novianr90&show_icons=true) -->
 
 ## Languages and Tools:
 [<img src="https://camo.githubusercontent.com/15be6c75048848552f56f8f7c59b3db1224b237978abc0fff40da243b08ca910/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f746c696e2e737667" width="50" height="50">](https://kotlinlang.org/)
