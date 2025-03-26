@@ -22,3 +22,6 @@ I am a fresh graduate of Digital Business Major from Indonesia University of Edu
 [<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" width="50" height="50">](https://www.postgresql.org/)
 [<img src="https://camo.githubusercontent.com/b25933b06fb0f27c1e2c7932b61b2446f400197cb87a18003510a1b5cb6075f6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667" width="50" height="50">](https://git-scm.com/)
 [<img src="https://camo.githubusercontent.com/7dca30b1b65f560fd34793d6af8da3ba68dbcf5e09139ed40bf9a8bdae079885/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" width="50" height="50">](https://www.java.com/en/)
+[<img src="https://camo.githubusercontent.com/1619d648887039b5425c9c2675fc11155a7acb4d68f5789fcbb645eae1f1ed17/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667" width="50" height="50">](https://www.typescriptlang.org/)
+
+
