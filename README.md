@@ -6,6 +6,12 @@ Welcome, to my Github Profile!
 
 I am a fresh graduate of Digital Business Major from Indonesia University of Education. I have an interest in Software Development, especially Android and Backend, and often contribute or create projects related to them. I've already taken Android Developer Bootcamp from Binar Academy and Scalable Web Services with Go Programming Bootcamp from Hacktiv8. Currently working under PT Berca Hardayaperkasa Consulting Service Department which using JD Edwards EnterpriseOne Apps and Java to develop ERP's clients needs.
 
+#### Projects
+Under PT Berca Hardayaperkasa as their Technical Consultant, here are what I've been done before:
+- Developed and maintained a localized tax system with new format (before is CSV, current XML) for Fonterra Brands Indonesia that will be used to Coretax. Tax System already go live at Production on JD Edwards E1 Apps of Fonterra.
+- Maintained and Supported report related to AR/AP and Tax for Chemco Harapan Nusantara. Handled issues from staging to production level.
+- Supported Petrochina International Jabung Ltd. JD Edwards Application related Finance, GA, EAM, and HR.
+
 #### Find Me
 
 [<img src="https://camo.githubusercontent.com/e9592fd6ea20b888ed3c7621d8c7257835af4f2e7232e92f5db4e9e2e4e91380/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="50" height="50">](https://www.linkedin.com/in/novianrachman/)
