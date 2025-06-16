@@ -11,6 +11,7 @@ Under PT Berca Hardayaperkasa as their Technical Consultant, here are what I've 
 - Developed and maintained a localized tax system with new format (before is CSV, current XML) for Fonterra Brands Indonesia that will be used to Coretax. Tax System already go live at Production on JD Edwards E1 Apps of Fonterra.
 - Maintained and Supported report related to AR/AP and Tax for Chemco Harapan Nusantara. Handled issues from staging to production level.
 - Supported Petrochina International Jabung Ltd. JD Edwards Application related Finance, GA, EAM, and HR.
+- Fixed current existing feature and developed cost allocation product, related to manufacture module on PT Rusli Vinilon Sakti using JD Edwards.
 
 #### Find Me
 
