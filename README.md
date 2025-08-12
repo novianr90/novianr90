@@ -4,15 +4,27 @@ Welcome, to my Github Profile!
 
 #### About Me
 
-I am a fresh graduate of Digital Business Major from Indonesia University of Education. I have an interest in Software Development, especially Android and Backend, and often contribute or create projects related to them. I've already taken Android Developer Bootcamp from Binar Academy and Scalable Web Services with Go Programming Bootcamp from Hacktiv8. Currently working under PT Berca Hardayaperkasa Consulting Service Department which using JD Edwards EnterpriseOne Apps and Java to develop ERP's clients needs.
+Digital Business graduate from Indonesia University of Education with a passion for technology solutions, specializing in software development, workflow automation, and ERP systems. Completed Android Developer Bootcamp (Binar Academy) and Scalable Web Services with Go Programming Bootcamp (Hacktiv8). Currently part of PT Berca Hardayaperkasa’s Consulting Service Department, developing ERP solutions using JD Edwards EnterpriseOne and Java.
 
-#### Projects
-Under PT Berca Hardayaperkasa as their Technical Consultant, here are what I've been done before:
-- Developed and maintained a localized tax system with new format (before is CSV, current XML) for Fonterra Brands Indonesia that will be used to Coretax. Tax System already go live at Production on JD Edwards E1 Apps of Fonterra.
-- Maintained and Supported report related to AR/AP and Tax for Chemco Harapan Nusantara. Handled issues from staging to production level.
-- Supported Petrochina International Jabung Ltd. JD Edwards Application related Finance, GA, EAM, and HR.
-- Fixed current existing feature and developed cost allocation product, related to manufacture module on PT Rusli Vinilon Sakti using JD Edwards.
+## Projects  
+As a Technical Consultant at **PT Berca Hardayaperkasa**, I delivered the following key achievements:  
 
+- **Fonterra Brands Indonesia**  
+  - Migrated localized tax system output format from CSV to XML, enabling seamless integration with Coretax.  
+  - Successfully deployed to production on JD Edwards E1 Apps, improving tax reporting efficiency and compliance.  
+
+- **Chemco Harapan Nusantara**  
+  - Maintained and enhanced AR/AP and tax reports, ensuring 100% issue resolution from staging to production environments.  
+
+- **Petrochina International Jabung Ltd.**  
+  - Provided ongoing support for Finance, GA, EAM, and HR modules in JD Edwards, reducing downtime and improving operational continuity.  
+  - Upgraded JD Edwards from version 9.1 to 9.2 Release 25, including HR, Finance, EAM, PO, and GA modules, ensuring smooth transition with minimal disruption.  
+
+- **PT Rusli Vinilon Sakti**  
+  - Improved manufacturing module performance by fixing existing features and developing a cost allocation product, streamlining cost tracking processes.  
+
+
+  
 #### Find Me
 
 [<img src="https://camo.githubusercontent.com/e9592fd6ea20b888ed3c7621d8c7257835af4f2e7232e92f5db4e9e2e4e91380/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="50" height="50">](https://www.linkedin.com/in/novianrachman/)
